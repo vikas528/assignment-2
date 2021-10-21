@@ -20,7 +20,7 @@ int main()
         {
             long int num1,num2;
             printf("Enter two decimal no.s: ");
-            scanf("%ld %ld",&num1,&num1);
+            scanf("%ld %ld", &num1, &num2);
             long long int product=num1*num2;
             printf("Product is: %ld \n",product);
         }
